@@ -3,4 +3,4 @@ In this project I will be learning various techniques to use bash for scripting.
 
 ## :running: Getting Started
 
-* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system reqd.
+* [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
