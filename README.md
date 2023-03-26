@@ -5,6 +5,8 @@ The journey gets more intresting i indulge into deep git commands.
 ## :running: Getting Started
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
+
+
 ## :warning: Prerequisites
 
 * Must have `git` installed
