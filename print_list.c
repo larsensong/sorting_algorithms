@@ -6,7 +6,7 @@
 
 /**
  *
- *  * print_list - Prints a list of integers
+ *  * print_list - Prints a list of integers in a data
  *
  *   *
  *
