@@ -10,7 +10,7 @@
  *
  *   *
  *
- *    * @list: The list of  to be printed
+ *    * @list: The list of a  to be printed
  *
  *     */
 
