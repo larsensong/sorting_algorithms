@@ -10,7 +10,7 @@
  *
  *   *
  *
- *    * @list: The list of arr  to be printed
+ *    * @list: The list of array  to be printed
  *
  *     */
 
