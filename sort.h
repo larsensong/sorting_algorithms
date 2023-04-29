@@ -50,7 +50,7 @@ typedef enum bool
  *
  *     * @prev: Pointer to the previous element of the list
  *
- *      * @next: Pointer to the next
+ *      * @next: Pointer to the next data 
 
  element of the list. 
  *
