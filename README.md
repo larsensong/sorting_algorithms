@@ -11,7 +11,7 @@ The journey gets more intresting i indulge into deep git commands.
 
 * Must have `git` installed
 
-* Must have repository cloned
+* Must have repository cloned.
 ```
 $ sudo apt-get install git
 ```
